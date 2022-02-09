@@ -73,6 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### install Dependencies
 
+```sh
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 npm install react-router-dom@6
+```
