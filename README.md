@@ -77,6 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 npm install react-router-dom@6
-npm install axios
+npm install axios socket.io-client
 npm install timeago.js
 ```
